@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app_dz_3</string>
+    <string name="employees_list">Список сотрудников</string>
+    <string name="menu_action_add">Добавить</string>
+    <string name="menu_action_delete">Удалить</string>
+    <string name="menu_action_edit">Редактировать</string>
+
+</resources>
